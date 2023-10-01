@@ -14,7 +14,7 @@ URL: "/book-review-rich-dad-poor-dad-robert-kiyosaki/"
 categories: [ "Tips" ]    
 ---
 
-![adsense](/img/post/2017-07-19-book_review_rich_dad_poor_dad_robert_kiyosaki/rich-dad-poor-dad.jpg)
+![rich dad poor dad](/img/post/2017-07-19-book_review_rich_dad_poor_dad_robert_kiyosaki/rich-dad-poor-dad.jpg)
 Finally, I have successfully completed a book that I bought about 2 years ago. Not due to busyness, but more towards laziness to read Robert Kiyosaki's ramblings about passive income or his favorite catchphrase **"let's money do the work."** That's what I used to think when I was still in college; it seemed easier to work for a company that offered a high salary, where the security of our future would always be guaranteed by the company.
 
 However, after interning for almost a year, I somehow began to feel that some paragraphs from the book were becoming a reality. One example is the excessive attachment to money, which shifted my initial goal of seeking experience towards a focus on salary. Although a high salary often becomes a priority for most people, it is often accompanied by increased consumption. This makes no matter how much the salary offered seems insufficient because it is spent on meeting high needs.
