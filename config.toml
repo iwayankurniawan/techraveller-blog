@@ -1,0 +1,88 @@
+baseurl = "https://Techraveller.com"
+title = "Techraveller"
+theme = "hugo-theme-cleanwhite"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+hasCJKLanguage = true
+
+[outputs]
+home = ["HTML", "RSS", "Algolia"]
+
+[params]
+  header_image = "img/home-bg.jpg"
+  SEOTitle = "Techraveller: Unveiling the World of Travel and Technology"
+  description = "Explore the intersection of travel and technology with our blog. Discover innovative travel gadgets, digital nomad tips, and the latest tech trends to enhance your globetrotting adventures"
+  keyword = "Travel technology, Digital nomad tips, Travel tech reviews, Destination tech guides, Travel apps, Technology for travelers, Tech-savvy travel, Smart travel accessories, Sustainable travel tech, Travel tech trends, Remote work while traveling, Travel-friendly smartphones, Travel estination, Travel productivity hacks, Tech and travel blog."
+  slogan = "Let's Explore the World"
+
+  image_404 = "img/404-bg.jpg"
+  title_404 = "Page Not Found :("
+  omit_categories = false
+
+  # leancloud storage for page view counter
+  page_view_conter = false 
+  leancloud_app_id = ""
+  leancloud_app_key = ""
+
+  # algolia site search
+  algolia_search = true
+  algolia_appId = ""
+  algolia_indexName = ""
+  algolia_apiKey = ""
+
+  # Sidebar settings
+  sidebar_about_description = "Techraveller blog"
+  sidebar_avatar = "img/contact-bg.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+  featured_tags = true 
+  featured_condition_size = 1 
+
+  # Baidu Analytics
+  ba_track_id = ""
+  
+  # We need a proxy to access Disqus api in China
+  # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
+  disqus_proxy = ""
+  disqus_site = ""
+
+  # Twikoo comments
+  # Follow https://twikoo.js.org/ to set up your own env_id
+  twikoo_env_id = ""
+
+  friends = true
+  bookmarks = false
+  about_me = true
+
+  # Include any custom CSS and/or JS files, url or relative to /static folder
+  #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
+  #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
+
+  [params.social]
+  
+  [[params.addtional_menus]]
+  title =  "ARCHIVE"
+  href =  "/archive/"
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/about/"
+
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"] 
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+  [markup.highlight]
+    style = "dracula"
