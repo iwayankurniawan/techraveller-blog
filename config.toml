@@ -1,4 +1,4 @@
-baseurl = "https://Techraveller.com"
+baseurl = "https://techraveller.com"
 title = "Techraveller"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
