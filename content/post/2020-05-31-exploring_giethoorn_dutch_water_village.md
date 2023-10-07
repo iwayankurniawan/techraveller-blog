@@ -4,7 +4,7 @@ title:      "Exploring Giethoorn: The Dutch Water Village"
 subtitle:   ""
 description: "If you think the Netherlands is all about windmills, think again! In addition to admiring windmills, you can also experience the unique charm of a water village in this country"
 excerpt: "If you think the Netherlands is all about windmills, think again! In addition to admiring windmills, you can also experience the unique charm of a water village in this country"
-date:    2017-07-21
+date:    2020-05-31
 author:     "Techraveller"
 image: "/img/post/2020-05-31-exploring_giethoorn_dutch_water_village/giethoorn6.jpg"
 published: true 

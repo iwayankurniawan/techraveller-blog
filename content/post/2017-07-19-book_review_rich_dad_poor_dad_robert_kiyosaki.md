@@ -4,7 +4,7 @@ title:      "Book Review: Rich Dad Poor Dad by Robert Kiyosaki"
 subtitle:   ""
 description: "I have successfully completed a book that I bought about 2 years ago. Not due to busyness, but more towards laziness to read Robert Kiyosaki's ramblings about passive income or his favorite catchphrase let's money do the work"
 excerpt: "I have successfully completed a book that I bought about 2 years ago. Not due to busyness, but more towards laziness to read Robert Kiyosaki's ramblings about passive income or his favorite catchphrase let's money do the work"
-date:    2017-07-21
+date:    2017-07-19
 author:     "Techraveller"
 image: ""
 published: true 
