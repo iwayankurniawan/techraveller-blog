@@ -4,8 +4,8 @@ title:      "Exploring Pompeii, the Lost City of Civilization"
 subtitle:   ""
 description: When you visit Naples, don't miss the opportunity to explore Pompeii, an ancient city buried by the eruption of Mount Vesuvius. Due to this volcanic eruption, the entire city was lost to civilization, and its inhabitants who couldn't escape perished"
 excerpt: "When you visit Naples, don't miss the opportunity to explore Pompeii, an ancient city buried by the eruption of Mount Vesuvius. Due to this volcanic eruption, the entire city was lost to civilization, and its inhabitants who couldn't escape perished"
-date:    2019-07-04
-author:     "Techraveller"
+date: 2019-07-04
+author: Techraveller
 image: "/img/post/2019-07-04-exploring_pompeii_lost_city_civilization/Pompei-8.jpg"
 published: true 
 tags:

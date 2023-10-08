@@ -4,8 +4,8 @@ title:      "3 Tips for Getting Approved by Google AdSense After 2 Failures"
 subtitle:   ""
 description: "Google AdSense is a dream for almost every blogger to earn income from their blogs. In fact, the initial goal for many bloggers entering the blogging world is to earn money through Google AdSense."
 excerpt: "Google AdSense is a dream for almost every blogger to earn income from their blogs. In fact, the initial goal for many bloggers entering the blogging world is to earn money through Google AdSense."
-date:    2017-07-21
-author:     "Techraveller"
+date: 2017-07-21
+author: Techraveller
 image: "/img/post/2017-07-21-three_tips_for_getting_approved_by_google_adsense/adsense-bg.jpg"
 published: true 
 tags:

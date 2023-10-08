@@ -4,8 +4,8 @@ title:      "6 Places to Visit in Berlin, a Historically Rich City"
 subtitle:   ""
 description: "In general, when we travel around cities in European countries, there is a similarity in the history or architecture of several cities in Europe. But if you have ever visited Europe, I recommend visiting Berlin, the capital of Germany"
 excerpt: "In general, when we travel around cities in European countries, there is a similarity in the history or architecture of several cities in Europe. But if you have ever visited Europe, I recommend visiting Berlin, the capital of Germany"
-date:    2020-05-23
-author:     "Techraveller"
+date: 2020-05-23
+author: Techraveller
 image: "/img/post/2020-05-23-6_places_to_visit_in_berlin/berlin1.jpg"
 published: true 
 tags:

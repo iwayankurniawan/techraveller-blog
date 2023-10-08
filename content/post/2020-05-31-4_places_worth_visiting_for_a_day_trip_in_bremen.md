@@ -4,8 +4,8 @@ title:      "4 Places Worth Visiting for a 1-Day Trip in Bremen"
 subtitle:   ""
 description: "Travelers often list Munich or Berlin as must-visit cities when touring Germany. However, if you have an extra day or some spare time, consider visiting other cities, one of which is Bremen."
 excerpt: "Travelers often list Munich or Berlin as must-visit cities when touring Germany. However, if you have an extra day or some spare time, consider visiting other cities, one of which is Bremen."
-date:    2020-05-31
-author:     "Techraveller"
+date: 2020-05-31
+author: Techraveller
 image: "/img/post/2020-05-31-4_places_worth_visiting_for_a_day_trip_in_bremen/bremen1.jpg"
 published: true 
 tags:
