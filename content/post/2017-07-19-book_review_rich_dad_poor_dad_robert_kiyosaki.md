@@ -2,7 +2,7 @@
 layout:     post
 title:      "Book Review: Rich Dad Poor Dad by Robert Kiyosaki"
 subtitle:   ""
-description: "I have successfully completed a book that I bought about 2 years ago. Not due to busyness, but more towards laziness to read Robert Kiyosaki's ramblings about passive income or his favorite catchphrase let's money do the work"
+description: "Finally, I have successfully completed a book that I bought about 2 years ago. Not due to busyness, but more towards laziness to read Robert Kiyosaki's ramblings about passive income or his favorite catchphrase let's money do the work. That's what I used to think when I was still in college; it seemed easier to work for a company that offered a high salary, where the security of our future would always be guaranteed by the company."
 excerpt: "I have successfully completed a book that I bought about 2 years ago. Not due to busyness, but more towards laziness to read Robert Kiyosaki's ramblings about passive income or his favorite catchphrase let's money do the work"
 date: 2017-07-19
 author: Techraveller

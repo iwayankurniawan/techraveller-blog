@@ -2,7 +2,9 @@
 layout:     post
 title:      "3 Tips for Getting Approved by Google AdSense After 2 Failures"
 subtitle:   ""
-description: "Google AdSense is a dream for almost every blogger to earn income from their blogs. In fact, the initial goal for many bloggers entering the blogging world is to earn money through Google AdSense."
+description: "Google AdSense is a dream for almost every blogger to earn income from their blogs. In fact, the initial goal for many bloggers entering the blogging world is to earn money through Google AdSense.
+
+Seeing numerous articles on how to get approved by Google AdSense, I became interested in contributing to this topic. By chance, I finally got accepted by Google AdSense after about 8 months of developing this blog."
 excerpt: "Google AdSense is a dream for almost every blogger to earn income from their blogs. In fact, the initial goal for many bloggers entering the blogging world is to earn money through Google AdSense."
 date: 2017-07-21
 author: Techraveller

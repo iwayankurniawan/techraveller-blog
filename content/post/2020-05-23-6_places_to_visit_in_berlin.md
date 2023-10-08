@@ -2,7 +2,7 @@
 layout:     post
 title:      "6 Places to Visit in Berlin, a Historically Rich City"
 subtitle:   ""
-description: "In general, when we travel around cities in European countries, there is a similarity in the history or architecture of several cities in Europe. But if you have ever visited Europe, I recommend visiting Berlin, the capital of Germany"
+description: "In general, when we travel around cities in European countries, there is a similarity in the history or architecture of several cities in Europe. But if you have ever visited Europe, I recommend visiting Berlin, the capital of Germany. Berlin has a very fresh and recent history, which occurred about 30 years ago. At that time, Berlin was divided into two parts: West Berlin and East Berlin. The two cities were separated by a wall and strict security. Moreover, the ideologies of the two cities were very different. Finally, in 1989, as communism weakened in East Berlin and the social divide between the two cities grew, the Berlin Wall came down. The fall of the Berlin Wall marked the beginning of the end of the Cold War between the United States and the Soviet Union and the reunification of Germany. Therefore, the reunification of Berlin and Germany became an event that the world remembers."
 excerpt: "In general, when we travel around cities in European countries, there is a similarity in the history or architecture of several cities in Europe. But if you have ever visited Europe, I recommend visiting Berlin, the capital of Germany"
 date: 2020-05-23
 author: Techraveller

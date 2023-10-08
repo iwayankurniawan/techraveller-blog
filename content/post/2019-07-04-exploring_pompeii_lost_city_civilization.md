@@ -2,7 +2,9 @@
 layout:     post
 title:      "Exploring Pompeii, the Lost City of Civilization"
 subtitle:   ""
-description: When you visit Naples, don't miss the opportunity to explore Pompeii, an ancient city buried by the eruption of Mount Vesuvius. Due to this volcanic eruption, the entire city was lost to civilization, and its inhabitants who couldn't escape perished"
+description: "When you visit Naples, don't miss the opportunity to explore Pompeii, an ancient city buried by the eruption of Mount Vesuvius. 
+
+Due to this volcanic eruption, the entire city was lost to civilization, and its inhabitants who couldn't escape perished. Why is Pompeii worth visiting? One of the reasons is that it offers a glimpse into the life of the ancient Romans."
 excerpt: "When you visit Naples, don't miss the opportunity to explore Pompeii, an ancient city buried by the eruption of Mount Vesuvius. Due to this volcanic eruption, the entire city was lost to civilization, and its inhabitants who couldn't escape perished"
 date: 2019-07-04
 author: Techraveller

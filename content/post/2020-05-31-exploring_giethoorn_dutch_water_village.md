@@ -2,7 +2,7 @@
 layout:     post
 title:      "Exploring Giethoorn: The Dutch Water Village"
 subtitle:   ""
-description: "If you think the Netherlands is all about windmills, think again! In addition to admiring windmills, you can also experience the unique charm of a water village in this country"
+description: "If you think the Netherlands is all about windmills, think again! In addition to admiring windmills, you can also experience the unique charm of a water village in this country. While Venice is famous for its water canals, the Netherlands has its own gem – Giethoorn, a picturesque water village with thousands of canals."
 excerpt: "If you think the Netherlands is all about windmills, think again! In addition to admiring windmills, you can also experience the unique charm of a water village in this country"
 date: 2020-05-31
 author: Techraveller

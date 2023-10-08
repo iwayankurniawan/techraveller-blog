@@ -2,7 +2,9 @@
 layout:     post
 title:      "Traveling and Aurora Hunting in Tromsø"
 subtitle:   ""
-description: "Winter is strongly associated with snow, but the perception changes when you live in one of the northernmost regions, such as Tromsø. Winter is not only about snow here; one of the eagerly anticipated attractions is the Northern Lights or Aurora."
+description: "Winter is strongly associated with snow, but the perception changes when you live in one of the northernmost regions, such as Tromsø. Winter is not only about snow here; one of the eagerly anticipated attractions is the Northern Lights or Aurora.
+
+If your city is located beyond the Arctic Circle, there is a possibility that you can see the green lights dancing every night in winter."
 excerpt: "Winter is strongly associated with snow, but the perception changes when you live in one of the northernmost regions, such as Tromsø. Winter is not only about snow here; one of the eagerly anticipated attractions is the Northern Lights or Aurora."
 date: 2020-02-16
 author: Techraveller
